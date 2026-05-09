@@ -420,6 +420,7 @@ This project is currently under active university/student development.
 # Author
 Ajzal Ashraf  
 MSc Robotics Engineering  
+CanSat Society
 Heriot-Watt University
 GitHub:
 https://github.com/ajumon2001
