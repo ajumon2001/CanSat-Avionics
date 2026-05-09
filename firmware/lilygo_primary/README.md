@@ -209,28 +209,6 @@ Examples:
 - XIAO ESP32-S3 Sense
 - Eggtimer Quantum
 ---
-# Build Instructions
-## Build Firmware
-```bash
-pio run
-```
-## Upload Firmware
-```bash
-pio run -t upload
-```
-## Open Serial Monitor
-```bash
-pio device monitor
-```
----
-# Serial Commands
-```text
-STATUS
-ARM
-GNSS
-SIM
-```
----
 # Important Safety Note
 This firmware is experimental and currently under active development.
 
